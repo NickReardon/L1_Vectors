@@ -1,0 +1,14 @@
+  This program will generate 15 random 3 digit numbers and 
+  store them in a vector. Then it will:
+    - Sort the numbers
+    - Reverse the digits in each number
+        - Store the reversed numbers in a new vector
+	- Find the some of the 3 digits of each numbers
+        - Store the sums in a new vector
+    - Print all 3 vectors
+
+      Notes: 
+        - Numbers less than 100, will display with
+          leading zeroes (eg. 009, rather than just 9)
+        - Sums will be displayed associated with the 
+          original number
